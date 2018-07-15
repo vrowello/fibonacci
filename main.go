@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-    "math"
 	"github.com/vrowello/fibonacci/calc"
+	"math"
 )
 
 var (
